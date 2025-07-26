@@ -1,12 +1,95 @@
-# React + Vite
+# Triodev Loader Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A lightweight, customizable loader/spinner component built with **React**, **Vite**, and **Tailwind CSS**. This project showcases modern React development practices with fast builds and a responsive UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Clean and minimal loading animations
+- Easily reusable component
+- Tailwind CSS-powered styling
+- Optimized with Vite
+- Mobile-friendly and responsive
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- **React**
+- **Vite**
+- **Tailwind CSS**
+- **JavaScript (ES6+)**
+- **GSAP**
+
+---
+
+## 📁 Folder Structure
+
+```bash
+Directory structure:
+└── triodev3322-triodev-loader.git/
+    ├── README.md
+    ├── eslint.config.js
+    ├── index.html
+    ├── package.json
+    ├── postcss.config.js
+    ├── tailwind.config.js
+    ├── vite.config.js
+    └── src/
+        ├── App.jsx
+        ├── index.css
+        ├── main.jsx
+        └── components/
+            └── Loader.jsx
+```
+
+---
+
+## ⚙️ Getting Started
+
+1. Clone the repository
+```bash
+git clone https://github.com/your-username/triodev3322-triodev-loader.git
+cd triodev3322-triodev-loader
+```
+
+2. Install dependencies
+```bash
+npm install
+
+```
+3. Run the development server
+```bash
+npm run dev
+```
+
+4. Open in browser
+Visit http://localhost:5173/ to view the loader in action.
+
+---
+
+## ✨ Customization
+
+You can modify the Loader.jsx file in the src/components/ directory to update the animation style, size, or color of the loader according to your UI needs.
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+Triodev3322
+
+📧 Reach out via triodev226@gmail.com
+
+🌐 [Live Website](https://triodev-web.vercel.app/)
+
+
+If you like this project, please ⭐ the repository!
+
+---
+
+# Built with ❤️ by TrioDev Team
